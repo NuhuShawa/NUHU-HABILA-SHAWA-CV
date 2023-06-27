@@ -1,1 +1,114 @@
 NUHU HABILA SHAWA RESUME'
+<!DOCTYPE html>
+<html>
+<title> NUHU HABILA SHAWA </title>
+<style>
+ img{height:90px;
+ }
+ img{width:90px;}
+ img{circular-border:70%}
+ hr{height:90%;}
+ hr{width:60%;}
+ h1{
+ color:;}
+</style>
+<hr size="3" noshade>
+<center>
+<table  a style="background-color:;"cellspacing="15">
+<tr>
+<td><img src="file:///C:/Users/USER/Desktop/index.html/uFyZuYXC_400x400.jpg"></td>
+<td> <h1 a style="background-color:;">NUHU HABILA SHAWA</h1></td>
+</tr>
+</table>
+<table cellspacing="15">
+<tr>
+<td><body>
+<P a style="background-color:;"> NO 27 Adjacent NTA Station, Jalingo</td>
+</tr>
+<tr>
+<td>Phone number: 08135524681, 07083960523</td>
+</tr>
+<tr>
+<td> Email: noahshawa@gmail.com & noahshawa@yahoo.com  </a></P></td>
+</tr>
+</table>
+  
+
+<br>
+<hr size="3" noshade>
+</center>
+<h2> PERSONAL DATA </h2>
+<p>Date Of Birth: 17th June 1998 </p>
+<p>Local Government Area: LAU </p>
+<p>State Of Origin: Taraba State </p>
+<p>Nationality: Nigerian </p>
+<p>Marital Status: Single </p>
+<br>
+<h2>SCHOOL ATTENDED WITH DATE</h2>
+<table cellspacing="25">
+<tr>
+<td>Progress Nursery And Primary School</td>
+<td>2005-2010</td>
+</tr>
+<tr>
+<td>Jetters Montessori Schools</td>
+<td>2010-2015</td>
+</tr>
+<tr>
+<td>Government Comprehensive Secondary School</td>
+<td>2015-2016</td>
+<tr>
+<td>ABU- School Of Basic And Remedial Studies</td>
+<td>2016-2018</td>
+</tr>
+<tr>
+<td>Taraba Business School </td>
+<td>2022-2022</td>
+</tr>
+<tr>
+<td>Ahmadu Bello University Zaria</td>
+<td>2018-2023</td>
+</tr>
+<tr>
+<td>Google Digital Skills For Africa</td>
+<td>2022-2023</td>
+</tr>
+<tr>
+<td>Horizon Global Learning Institute</td>
+<td>2023-2023</td>
+</tr>
+</table>
+<br>
+<h2>QUALIFICATION OBTAINED </h2>
+<ul>
+<p><li>	(BSc. Hons) In Human Anatomy </p> </li>                                                                                 
+<p><li>	Diploma in Sciences (IJMB)   </p>  </li>                                                                     
+<p><li>	Professional Diploma in Public Health </p>  </li>                               
+<p><li>	Professional Diploma in Information Technology </p></li>
+<p><li> Professional Diploma in Entrepreneuship </p></li>  
+<p><li>	Fundamental Of Digital Marketing Certification </p></li>
+<p><li>	Secondary School Certificate (WAEC And NECO) </p>   </li>                                               
+<p><li>	Primary School Certificate (FSLC)      </p>     </li>  
+</ul>
+<p>Others (2015)- Olympiad Best In Chemistry Taraba State, 2nd Best North East Student- Nigeria Computer Society, Jetters Montessori Schools All Time Best Athlete   
+</p>
+<h3> SEMINAR AND  RESEARCH CONDUCTED AT THE DEPARTMENT OF HUMAN ANATOMY,COLLEGE OF MEDICAL SCIENCES, AHMADU BELLO UNIVERSITY, ZARIA.</h3>
+<table cellspacing="20"> 
+<tr> 
+<td> RESEARCH/SEMINAR  
+<p>  DATE</p></td>
+<td> BLOOD GROUP AND DIET         
+<p>  MAY 2023 </p></td>
+<td> RELATIONSHIP BETWEEN BLOOD GROUP AND INTELLIGENT QUOTIENT AMONG YANDANG POPULATE  
+<p>  SEPTEMBER 2023 </p></td> 
+</table>
+<h2>PROFESSIONAL EXPERIENCE</h2>
+<p>Human Anatomist, Digital Professional, Teacher and Entrepreneur </p>
+<h2>HOBBIES</h2>
+<p>Research, Marketing, Adventures and Sports</p>
+<body a style="background-color:powderblue;"> </a> 
+</body>
+<br>
+<h2> REFEREES </h2>
+<p> Binta N. Shawa. 08161533286 (Adjacent UBE Primary School Jalingo) </p>
+<p> Sandra Francis  A. 08105221471 (NO 7 Abuja Street Badarisa Yola </p>
