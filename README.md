@@ -105,7 +105,7 @@ NUHU HABILA SHAWA RESUME'
 <h2>PROFESSIONAL EXPERIENCE</h2>
 <p>Human Anatomist, Digital Professional, Teacher and Entrepreneur </p>
 <h2>HOBBIES</h2>
-<p>Research, Marketing, Adventures and Sports</p>
+<p>Research, Enterprising, Adventures and Sports</p>
 <body a style="background-color:powderblue;"> </a> 
 </body>
 <br>
